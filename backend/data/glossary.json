@@ -1,0 +1,86 @@
+[
+  {
+    "source": "Cloud Sync",
+    "target": "云同步",
+    "context": "设置-存档同步",
+    "keep_english": false,
+    "note": "产品功能名"
+  },
+  {
+    "source": "HP",
+    "target": "生命值",
+    "context": "战斗属性",
+    "keep_english": false,
+    "note": "禁止使用“健康点”"
+  },
+  {
+    "source": "Mana",
+    "target": "法力值",
+    "context": "战斗属性",
+    "keep_english": false,
+    "note": ""
+  },
+  {
+    "source": "Cooldown",
+    "target": "冷却时间",
+    "context": "技能",
+    "keep_english": false,
+    "note": "避免口语缩写 CD"
+  },
+  {
+    "source": "Quest",
+    "target": "任务",
+    "context": "任务系统",
+    "keep_english": false,
+    "note": "统一译“任务”，勿用“委托”"
+  },
+  {
+    "source": "Arena",
+    "target": "竞技场",
+    "context": "PvP",
+    "keep_english": false,
+    "note": ""
+  },
+  {
+    "source": "GvG",
+    "target": "GvG",
+    "context": "公会战",
+    "keep_english": true,
+    "note": "公会战缩写保留英文"
+  },
+  {
+    "source": "Legionnaire's Blade",
+    "target": "Legionnaire's Blade",
+    "context": "首领名称",
+    "keep_english": true,
+    "note": "专有名词保留英文"
+  },
+  {
+    "source": "Level",
+    "target": "等级",
+    "context": "角色等级",
+    "keep_english": false,
+    "note": "角色等级语境"
+  },
+  {
+    "source": "Level 3",
+    "target": "第 3 章",
+    "context": "关卡/章节",
+    "keep_english": false,
+    "note": "上下文限定词条：章节语境"
+  },
+  {
+    "source": "Soulbound",
+    "target": "灵魂绑定",
+    "context": "物品",
+    "keep_english": false,
+    "note": ""
+  },
+  {
+    "source": "Inventory",
+    "target": "背包",
+    "context": "物品栏",
+    "keep_english": false,
+    "note": ""
+  }
+]
